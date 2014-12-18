@@ -7,3 +7,5 @@ public class Alfredo extends Base{
 		super("Alfredo", new Money(2,55), 365);
 	}
 }
+
+//test
